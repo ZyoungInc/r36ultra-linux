@@ -1,11 +1,11 @@
-# 📌 Description (双语简介)
+# 📌 Description
 
 **EN:** Custom Linux system development for R36 Ultra. Includes modified DTBs and flashing tools with tutorials.
 **中文:** R36 Ultra 自定义 Linux 系统开发，包含修改后的设备树文件 (DTBs) 及刷机工具与教程。
-
+-从R36U提取的资源，未作任何改动。介绍由GPT生成
 ---
 
-# 📌 README.md (中英双语)
+# 📌 README.md
 
 ```markdown
 # R36Ultra Linux — DTBs & Flash Tools  
